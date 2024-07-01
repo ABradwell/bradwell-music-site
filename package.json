@@ -1,0 +1,31 @@
+{
+    "name": "bradwell-music-account-site",
+    "version": "0.0.1",
+    "description": "A personal site of Aiden Stevenson Bradwell, in a vain attempt to try and have someone look at me and think Im a cool fella",
+    "keywords": [],
+    "main": "src/index.js",
+    "dependencies": {
+        "react": "16.12.0",
+        "react-dom": "16.12.0",
+        "react-scripts": "3.0.1"
+    },
+    "devDependencies": {
+        "typescript": "3.8.3"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ABradwell/bradwell-music-site.git"
+    },
+    "author": "Aiden Stevenson Bradwell",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ABradwell/bradwell-music-site/issues"
+    },
+    "homepage": "https://github.com/ABradwell/bradwell-music-site#readme"
+}
